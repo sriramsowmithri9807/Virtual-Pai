@@ -1,8 +1,6 @@
 # 🎨 Virtual Painter: Hand Gesture-Based Art Tool
 
-Bring your artistic visions to life with the power of AI and hand gestures! The **Virtual Painter** is an innovative application that transforms your webcam into a canvas where you can draw, erase, and color using just your hands.  
-
-![Virtual Painter Demo](https://example.com/demo-image) *(Add a screenshot or demo GIF)*  
+Bring your artistic visions to life with the power of AI and hand gestures! The **Virtual Painter** is an innovative application that transforms your webcam into a canvas where you can draw, erase, and color using just your hands.   
 
 ## 🌟 Features
 - **Gesture Control**: Use hand movements to draw, select colors, erase, and more. No mouse or keyboard needed!
@@ -73,8 +71,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🌐 Connect
 Feel free to reach out for suggestions or collaboration:
 - **GitHub**: [sriramsowmithri9807](https://github.com/sriramsowmithri9807)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle) *(Add your actual handle)*
+- **Mailid**: sowmithrisriram7@gmail.com
 
----
-
-Let me know if you want to tweak anything!
